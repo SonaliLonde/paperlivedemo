@@ -1,0 +1,5 @@
+*.class
+sona.class
+/dir
+*.php
+*.log
